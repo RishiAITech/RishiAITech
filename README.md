@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo.svg" alt="G&H Aid Logo" width="150"/>
+  <img src="logo.svg" alt="G&H Aid Logo" width="150"/>
 </p>
 
 <h1 align="center">G&H Medicare — Co-Founders & Full-Stack Innovators</h1>
