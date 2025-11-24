@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="G&H Aid Logo" width="150"/>
+  <img src="/assets/logo.png" alt="G&H MedicareLogo" width="150"/>
 </p>
 
 <h1 align="center">G&H Medicare — Co-Founders & Full-Stack Innovators</h1>
@@ -10,7 +10,7 @@
 ## 👥 Founders
 
 ### 🧑‍💻 **Mohammad Hasim**
-- Co-Founder of **G&H Aid**
+- Co-Founder of **G&H Medicare**
 - Full-Stack Developer | React | Django | Node.js  
 - Specializing in **Hospital Management Systems** & **E-commerce Platforms**
 - Portfolio: **https://mohdhasim074.github.io/portfolio**
@@ -19,14 +19,14 @@
 ---
 
 ### 🧑‍💻 **Gaurav Chaurasiya**
-- Co-Founder of **G&H Aid**
+- Co-Founder of **G&H Medicare**
 - Software Engineer | Backend & System Design
 - Strong in **Scalable Cloud Architectures** & **Automation Tools**
 - LeetCode: **https://leetcode.com/gaurav.chaurasiya**
 
 ---
 
-## 🚀 About G&H Aid
+## 🚀 About G&H Medicare
 We are a software development startup building modern, secure, and optimized solutions for:
 
 - 🏥 **Hospitals & Clinics**
