@@ -62,4 +62,75 @@ We work with startups, enterprises, and growing businesses to transform ideas in
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/ico
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python" />
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,linux" />
+</p>
+
+### 🧪 Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,figma" />
+</p>
+
+---
+
+## 📂 Our Repositories
+
+Our GitHub repositories showcase:
+- Production-grade client applications  
+- Internal tools & frameworks  
+- Scalable backend services  
+- Innovation & proof-of-concept projects  
+
+🔒 Most repositories are private and maintained for client or internal use.
+
+---
+
+## 🔐 Engineering Standards
+
+- Clean, readable & maintainable code  
+- Secure development best practices  
+- Branch-based development workflow  
+- Mandatory Pull Requests & Code Reviews  
+- Industry-standard architecture patterns  
+
+---
+
+## 📈 How We Work
+
+1. Requirement Analysis & Planning  
+2. System Design & Architecture  
+3. Agile Development  
+4. Testing & Quality Assurance  
+5. Secure Deployment & Support  
+
+---
+
+## 🌍 Location & Reach
+
+🇮🇳 India  
+🌐 Serving clients globally
+
+---
+
+## 📫 Get in Touch
+
+For business inquiries, partnerships, or collaboration:
+
+📧 **RishiAiTech@gmail.com**  
+
+---
+
+## 🤝 Maintained By
+
+**Rishi Ai Tech**  
+Delivering reliable software.  
+Empowering businesses through technology.
