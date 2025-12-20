@@ -1,98 +1,118 @@
 <p align="center">
-  <img src="/assets/logo.png" alt="G&H MedicareLogo" width="150"/>
+  <img src="/assets/logo.png" alt="Rishi Ai Tech Logo" width="160"/>
 </p>
 
-<h1 align="center">G&H Medicare — Co-Founders & Full-Stack Innovators</h1>
-<h3 align="center">We build modern Hospital & Ecommerce Software Solutions</h3>
+<h1 align="center">Rishi Ai Tech</h1>
+<h3 align="center">
+  Building Intelligent, Scalable & Future-Ready Software Solutions
+</h3>
+
+<p align="center">
+  🚀 Software Development • 🤖 AI Solutions • 🌐 Web & Mobile Platforms
+</p>
 
 ---
 
-## 👥 Founders
+## 🏢 About Us
 
-### 🧑‍💻 **Mohammad Hasim**
-- Co-Founder of **G&H Medicare**
-- Full-Stack Developer | React | Django | Node.js  
-- Specializing in **Hospital Management Systems** & **E-commerce Platforms**
-- Portfolio: **https://mohdhasim074.github.io/portfolio**
-- Email: **mohdhasim0074@gmail.com**
+**Rishi Ai Tech** is a technology-focused software company delivering high-quality, scalable, and secure digital products.
 
----
+We partner with startups, enterprises, and growing businesses to transform ideas into powerful software solutions using modern engineering practices and emerging technologies.
 
-### 🧑‍💻 **Gaurav Chaurasiya**
-- Co-Founder of **G&H Medicare**
-- Software Engineer | Backend & System Design
-- Strong in **Scalable Cloud Architectures** & **Automation Tools**
-- LeetCode: **https://leetcode.com/gaurav.chaurasiya**
+> 💡 *Our vision is to create software that is simple to use, powerful in performance, and scalable for the future.*
 
 ---
 
-## 🚀 About G&H Medicare
-We are a software development startup building modern, secure, and optimized solutions for:
+## 💼 Our Expertise
 
-- 🏥 **Hospitals & Clinics**
-  - Hospital Management Systems (HMS)
-  - Patient & Staff Management
-  - Inventory, Billing, Pharmacy Modules
+### 🧠 Intelligent Solutions
+- AI-powered applications  
+- Automation & smart workflows  
+- Data-driven systems  
 
-- 🛒 **E-Commerce Businesses**
-  - Storefronts, Admin Panels
-  - Payment Integration
-  - CRM & Automation Tools
+### 💻 Software Development
+- Custom enterprise software  
+- Backend & API development  
+- High-performance system design  
 
-Our mission:  
-⭐ *“To simplify business operations through clean UI and smart technology.”*
+### 🌐 Web & Mobile
+- Modern web applications  
+- Mobile apps (Android & iOS)  
+- Admin panels & dashboards  
+
+### ☁️ Cloud & Scalability
+- Cloud-ready architectures  
+- Secure & scalable deployments  
+- DevOps & CI/CD pipelines  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Technology Stack
 
-### 🎨 **Frontend**
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,bootstrap,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap" />
 </p>
 
-### ⚙️ **Backend**
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python" />
 </p>
 
-### 🗄️ **Databases**
+### 🗄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
-### 🧪 **Testing Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=cypress,postman" />
-</p>
-
-### ☁️ **Cloud & DevOps**
+### ☁️ Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,linux" />
 </p>
 
-### 🧰 **Other Technologies**
+### 🧪 Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,blender,arduino,kotlin" />
+  <img src="https://skillicons.dev/icons?i=postman,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishiaitech&show_icons=true&layout=compact&theme=tokyonight" />
-</p>
+## 📂 Our Repositories
+
+Our GitHub repositories represent:
+- Production-grade applications  
+- Internal frameworks & tools  
+- Scalable backend services  
+- Proof-of-concept & innovation projects  
+
+🔒 Most repositories are private and maintained for client and internal use.
 
 ---
 
-## 🌐 Connect With Us
-<p align="left">
-  <a href="https://linkedin.com/in/mohd.hasim" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/gaurav.chaurasiya" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-</p>
+## 🔐 Engineering Standards
+
+- Clean & maintainable codebase  
+- Secure development practices  
+- Branch-based workflow  
+- Mandatory code reviews  
+- Industry-standard architecture  
 
 ---
+
+## 🌍 Location
+🇮🇳 India  
+🌐 Working with clients globally
+
+---
+
+## 📫 Get in Touch
+
+For collaboration, partnerships, or business inquiries:
+
+📧 **contact@rishiaitech.com** *(replace with official email)*
+
+---
+
+## 🤝 Maintained By
+**Rishi Ai Tech**  
+Delivering reliable software.  
+Empowering businesses with technology.
