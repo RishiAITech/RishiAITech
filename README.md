@@ -1,15 +1,17 @@
-<p align="center">
-  <img src="logo.png" alt="Rishi Ai Tech Logo" width="160"/>
-</p>
-
-<h1 align="center">Rishi Ai Tech</h1>
-<h3 align="center">
-  Building Intelligent, Scalable & Future-Ready Software Solutions
-</h3>
-
-<p align="center">
-  🚀 Software Development • 🤖 AI Solutions • 🌐 Web & Mobile Platforms
-</p>
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="logo.png" alt="Rishi Ai Tech Logo" width="150"/>
+    </td>
+    <td width="75%" align="left">
+      <h1>Rishi Ai Tech</h1>
+      <h3>Building Intelligent, Scalable & Future-Ready Software Solutions</h3>
+      <p>
+        🚀 Software Development &nbsp;•&nbsp; 🤖 AI Solutions &nbsp;•&nbsp; 🌐 Web & Mobile Platforms
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -17,15 +19,15 @@
 
 **Rishi Ai Tech** is a technology-focused software company delivering high-quality, scalable, and secure digital products.
 
-We partner with startups, enterprises, and growing businesses to transform ideas into powerful software solutions using modern engineering practices and emerging technologies.
+We collaborate with startups, enterprises, and growing businesses to convert ideas into powerful software solutions using modern engineering practices, clean architecture, and emerging technologies.
 
-> 💡 *Our vision is to create software that is simple to use, powerful in performance, and scalable for the future.*
+> 💡 *Our vision is to build software that is simple to use, powerful in performance, and scalable for the future.*
 
 ---
 
 ## 💼 Our Expertise
 
-### 🧠 Intelligent Solutions
+### 🧠 Intelligent & AI Solutions
 - AI-powered applications  
 - Automation & smart workflows  
 - Data-driven systems  
@@ -35,7 +37,7 @@ We partner with startups, enterprises, and growing businesses to transform ideas
 - Backend & API development  
 - High-performance system design  
 
-### 🌐 Web & Mobile
+### 🌐 Web & Mobile Solutions
 - Modern web applications  
 - Mobile apps (Android & iOS)  
 - Admin panels & dashboards  
@@ -78,41 +80,44 @@ We partner with startups, enterprises, and growing businesses to transform ideas
 
 ## 📂 Our Repositories
 
-Our GitHub repositories represent:
+Our GitHub repositories include:
 - Production-grade applications  
-- Internal frameworks & tools  
+- Internal frameworks & utilities  
 - Scalable backend services  
 - Proof-of-concept & innovation projects  
 
-🔒 Most repositories are private and maintained for client and internal use.
+🔒 Most repositories are private and maintained for client or internal use.
 
 ---
 
 ## 🔐 Engineering Standards
 
-- Clean & maintainable codebase  
+- Clean, readable & maintainable code  
 - Secure development practices  
 - Branch-based workflow  
-- Mandatory code reviews  
+- Mandatory Pull Requests & Code Reviews  
 - Industry-standard architecture  
 
 ---
 
-## 🌍 Location
+## 🌍 Location & Reach
+
 🇮🇳 India  
-🌐 Working with clients globally
+🌐 Serving clients globally
 
 ---
 
 ## 📫 Get in Touch
 
-For collaboration, partnerships, or business inquiries:
+For business inquiries, partnerships, or collaboration:
 
-📧 **contact@rishiaitech.com** *(replace with official email)*
+📧 **contact@rishiaitech.com**  
+*(Replace with your official company email)*
 
 ---
 
 ## 🤝 Maintained By
+
 **Rishi Ai Tech**  
 Delivering reliable software.  
-Empowering businesses with technology.
+Empowering businesses through technology.
