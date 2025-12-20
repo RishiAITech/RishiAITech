@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/logo.png" alt="Rishi Ai Tech Logo" width="160"/>
+  <img src="logo.png" alt="Rishi Ai Tech Logo" width="160"/>
 </p>
 
 <h1 align="center">Rishi Ai Tech</h1>
